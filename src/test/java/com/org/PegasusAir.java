@@ -20,7 +20,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 import com.google.common.collect.Table.Cell;
 
-public class Pegasus {
+public class PegasusAir {
 	public static void main(String[] args) throws Throwable {
 		System.setProperty("webdriver.gecko.driver", "E:\\SELENIUM\\project\\Project1\\driver\\geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
